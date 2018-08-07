@@ -1,0 +1,17 @@
+/Users/it/Projects/fencing/fencing/bin/Debug/netstandard2.0/fencing.deps.json
+/Users/it/Projects/fencing/fencing/bin/Debug/netstandard2.0/fencing.dll
+/Users/it/Projects/fencing/fencing/bin/Debug/netstandard2.0/fencing.pdb
+/Users/it/Projects/fencing/fencing/obj/Debug/netstandard2.0/fencing.csproj.CoreCompileInputs.cache
+/Users/it/Projects/fencing/fencing/obj/Debug/netstandard2.0/fencing.AssemblyInfoInputs.cache
+/Users/it/Projects/fencing/fencing/obj/Debug/netstandard2.0/fencing.AssemblyInfo.cs
+/Users/it/Projects/fencing/fencing/obj/Debug/netstandard2.0/fencing.dll
+/Users/it/Projects/fencing/fencing/obj/Debug/netstandard2.0/fencing.pdb
+/Users/it/Desktop/geofence/fencing/bin/Debug/netstandard2.0/fencing.deps.json
+/Users/it/Desktop/geofence/fencing/bin/Debug/netstandard2.0/fencing.dll
+/Users/it/Desktop/geofence/fencing/bin/Debug/netstandard2.0/fencing.pdb
+/Users/it/Desktop/geofence/fencing/obj/Debug/netstandard2.0/fencing.csproj.CoreCompileInputs.cache
+/Users/it/Desktop/geofence/fencing/obj/Debug/netstandard2.0/fencing.AssemblyInfoInputs.cache
+/Users/it/Desktop/geofence/fencing/obj/Debug/netstandard2.0/fencing.AssemblyInfo.cs
+/Users/it/Desktop/geofence/fencing/obj/Debug/netstandard2.0/fencing.dll
+/Users/it/Desktop/geofence/fencing/obj/Debug/netstandard2.0/fencing.pdb
+/Users/it/Desktop/geofence/fencing/obj/Debug/netstandard2.0/fencing.csprojResolveAssemblyReference.cache

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.TP.fencingggggg">
+  <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="27" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-feature android:name="android.hardware.location.gps" />
+  <uses-feature android:name="android.hardware.location.network" />
+  <application android:label="COGS" android:name="android.app.Application" android:allowBackup="true" android:icon="@mipmap/icon" android:debuggable="true">
+    <activity android:configChanges="orientation|screenSize" android:icon="@mipmap/icon" android:label="fencing" android:theme="@style/MainTheme" android:name="md51c486c9dd95c6a13803ce54b2f2290f6.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <service android:name="md539027c6c0fd9063ac5911f6dc75db946.GeolocationService" />
+    <receiver android:enabled="true" android:label="Local Notifications Plugin Broadcast Receiver" android:name="md51251ca0436b286678a1cd2c1ca81248e.ScheduledAlarmHandler" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.TP.fencingggggg.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.TP.fencingggggg" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>
