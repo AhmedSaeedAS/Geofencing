@@ -5541,11 +5541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/it/Desktop/geofence/fencing.iOS/fencing.iOS.csproj",
+      "projectUniqueName": "/Users/it/Desktop/GitHubGeofencing/fencing.iOS/fencing.iOS.csproj",
       "projectName": "fencing.iOS",
-      "projectPath": "/Users/it/Desktop/geofence/fencing.iOS/fencing.iOS.csproj",
+      "projectPath": "/Users/it/Desktop/GitHubGeofencing/fencing.iOS/fencing.iOS.csproj",
       "packagesPath": "/Users/it/.nuget/packages/",
-      "outputPath": "/Users/it/Desktop/geofence/fencing.iOS/obj",
+      "outputPath": "/Users/it/Desktop/GitHubGeofencing/fencing.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/it/.config/NuGet/NuGet.Config"
@@ -5559,8 +5559,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/it/Desktop/geofence/fencing/fencing.csproj": {
-              "projectPath": "/Users/it/Desktop/geofence/fencing/fencing.csproj"
+            "/Users/it/Desktop/GitHubGeofencing/fencing/fencing.csproj": {
+              "projectPath": "/Users/it/Desktop/GitHubGeofencing/fencing/fencing.csproj"
             }
           }
         }

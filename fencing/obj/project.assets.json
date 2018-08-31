@@ -544,11 +544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/it/Desktop/geofence/fencing/fencing.csproj",
+      "projectUniqueName": "/Users/it/Desktop/GitHubGeofencing/fencing/fencing.csproj",
       "projectName": "fencing",
-      "projectPath": "/Users/it/Desktop/geofence/fencing/fencing.csproj",
+      "projectPath": "/Users/it/Desktop/GitHubGeofencing/fencing/fencing.csproj",
       "packagesPath": "/Users/it/.nuget/packages/",
-      "outputPath": "/Users/it/Desktop/geofence/fencing/obj",
+      "outputPath": "/Users/it/Desktop/GitHubGeofencing/fencing/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

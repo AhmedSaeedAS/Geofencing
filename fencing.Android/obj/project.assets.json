@@ -4283,11 +4283,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/it/Desktop/geofence/fencing.Android/fencing.Android.csproj",
+      "projectUniqueName": "/Users/it/Desktop/GitHubGeofencing/fencing.Android/fencing.Android.csproj",
       "projectName": "fencing.Android",
-      "projectPath": "/Users/it/Desktop/geofence/fencing.Android/fencing.Android.csproj",
+      "projectPath": "/Users/it/Desktop/GitHubGeofencing/fencing.Android/fencing.Android.csproj",
       "packagesPath": "/Users/it/.nuget/packages/",
-      "outputPath": "/Users/it/Desktop/geofence/fencing.Android/obj",
+      "outputPath": "/Users/it/Desktop/GitHubGeofencing/fencing.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/it/.config/NuGet/NuGet.Config"
@@ -4301,8 +4301,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/it/Desktop/geofence/fencing/fencing.csproj": {
-              "projectPath": "/Users/it/Desktop/geofence/fencing/fencing.csproj"
+            "/Users/it/Desktop/GitHubGeofencing/fencing/fencing.csproj": {
+              "projectPath": "/Users/it/Desktop/GitHubGeofencing/fencing/fencing.csproj"
             }
           }
         }
